@@ -5,7 +5,7 @@ organization := "io.verizon.build"
 
 name := "sbt-blockade"
 
-scalaVersion := "2.12.6"
+scalaVersion := "2.12.8"
 
 sbtVersion in Global := "1.1.6"
 
